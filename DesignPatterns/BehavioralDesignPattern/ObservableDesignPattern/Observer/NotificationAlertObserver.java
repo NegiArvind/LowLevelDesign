@@ -1,2 +1,6 @@
-package Observer;public interface NotificationAlertObserver {
+package Observer;
+
+public interface NotificationAlertObserver {
+
+    void update();
 }
